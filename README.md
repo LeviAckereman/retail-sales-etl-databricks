@@ -1,4 +1,4 @@
-# Retail Sales ETL Pipeline (Databricks)
+# Retail Sales ETL Pipeline 
 
 This project demonstrates a simple end-to-end ETL pipeline built on Databricks using PySpark and Delta Lake.  
 The goal was to understand how raw data is ingested, cleaned, and transformed into business-ready tables.
